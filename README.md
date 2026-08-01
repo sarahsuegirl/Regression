@@ -46,6 +46,7 @@ The primary model evaluates multiple feature combinations to predict used car ma
 ##  Visual Insights
 <img width="1966" height="1966" alt="image" src="https://github.com/user-attachments/assets/334cc674-8562-4570-a011-8f5ee4ca0df3" />
 
+<img width="536" height="418" alt="image" src="https://github.com/user-attachments/assets/c2c42c92-e3b5-4b05-a618-ad623f64107c" />
 
 
 ##  Repository Structure
@@ -64,6 +65,3 @@ The primary model evaluates multiple feature combinations to predict used car ma
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for details.
