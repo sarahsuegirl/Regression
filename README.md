@@ -43,11 +43,12 @@ The primary model evaluates multiple feature combinations to predict used car ma
 
 ---
 
-## 📊 Visual Insights
+##  Visual Insights
+<img width="1966" height="1966" alt="image" src="https://github.com/user-attachments/assets/334cc674-8562-4570-a011-8f5ee4ca0df3" />
 
 
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 ├── CarPricesData.pkl              # Primary Used Car Dataset
